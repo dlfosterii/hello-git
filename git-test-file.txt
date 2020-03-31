@@ -9,3 +9,4 @@ line 7 text
 eight and final line
 =======
 >>>>>>> parent of cce1852...  sixth time
+and now for something completely diffrent
