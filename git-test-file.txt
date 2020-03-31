@@ -3,6 +3,9 @@ more text
 3rd line for adding
 4th line to be added
 four score and seven years ago
+<<<<<<< HEAD
 more text to add for line 6
 line 7 text
 eight and final line
+=======
+>>>>>>> parent of cce1852...  sixth time
