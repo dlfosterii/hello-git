@@ -4,3 +4,5 @@ more text
 4th line to be added
 four score and seven years ago
 more text to add for line 6
+line 7 text
+eight and final line
